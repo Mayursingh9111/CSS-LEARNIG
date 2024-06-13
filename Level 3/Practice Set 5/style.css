@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(Car\ Photo.jpg);
+    background-size: cover;
+    position: fixed;
+    right: 0;
+    color: wheat;
+    top: 50px;
+}
