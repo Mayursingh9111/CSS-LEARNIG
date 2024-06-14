@@ -1,0 +1,16 @@
+.container{
+    height: 400px;
+    width: 400px;
+    background-color: steelblue;
+    margin: 80px auto;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: tomato;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotateX(120deg);
+}
